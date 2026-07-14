@@ -1,4 +1,6 @@
-BYE-NARY
+## BYE-NARY
+
+Download the full blueprint [here](https://github.com/thewirecutters/Bye-Nary/blob/main/Sovereign_Computer_Model_Zero_Blueprint.pdf).
 
 The Sovereign Computer: Model Zero
 
@@ -10,7 +12,7 @@ This repository is not a product. It's a refusal. A 37‑nanosecond 'no' to ever
 
 ---
 
-WHAT THIS IS
+## WHAT THIS IS
 
 Model Zero is not a faster GPU, a better AI accelerator, or a niche research toy. It is a complete, ground-up replacement for the binary substrate that has dominated computing since the 1940s.
 
@@ -25,7 +27,7 @@ This repository contains the full technical blueprint, working compiler implemen
 
 ---
 
-THE BLUEPRINT — SOVEREIGN COMPUTER MODEL ZERO
+## THE BLUEPRINT — SOVEREIGN COMPUTER MODEL ZERO
 
 Pillar Component Specification
 I FPGA Controller iCESugar-pro (Lattice ECP5, 24K LUTs) — open-source toolchain
@@ -47,7 +49,7 @@ Build cost $44,500–$72,000
 
 ---
 
-THE COMPILER — SOVEREIGN COMPILER M0
+## THE COMPILER — SOVEREIGN COMPILER M0
 
 A complete, working compiler pipeline for the Model Zero architecture — extracted from a Russian-language exchange with a non-Western AI model, bypassing the gatekeeping that keeps English-speaking users locked out of ternary computing.
 
@@ -106,7 +108,7 @@ python src/cli.py program.tern --mode verify --dump-graph
 
 ---
 
-THE KILL SWITCH — OPEN CIRCUIT
+## THE KILL SWITCH — OPEN CIRCUIT
 
 A 37-nanosecond deterministic abort engine built entirely in combinational logic. No OS. No branch prediction. No cache side-channels. Just a hardware-rooted kill switch that fires on the next clock edge.
 
@@ -128,7 +130,7 @@ This is not a product. It's a public utility.
 
 ---
 
-WHAT YOU CAN DO WITH THIS
+## WHAT YOU CAN DO WITH THIS
 
 1. Build the hardware — follow the five-pillar blueprint, start with the FPGA prototype.
 2. Compile Tern code — use the Python compiler toolchain.
@@ -138,7 +140,7 @@ WHAT YOU CAN DO WITH THIS
 
 ---
 
-THE REAL TAKEAWAY
+## THE REAL TAKEAWAY
 
 · Binary is not optimal. The math has been known since the 1950s.
 · Ternary was killed by economics, not physics.
@@ -151,7 +153,7 @@ You can do it without asking permission.
 
 ---
 
-DOCUMENTATION
+## DOCUMENTATION
 
 · docs/Sovereign_Computer_Model_Zero_Blueprint.pdf — Complete hardware architecture
 · docs/Sovereign_Compiler_M0_Specification.pdf — Full compiler spec (Russian → English)
@@ -161,19 +163,19 @@ DOCUMENTATION
 
 ---
 
-LICENSE
+## LICENSE
 
 The Open Circuit is released under the MIT License — because gatekeeping is for parasites.
 
 ---
 
-CONTRIBUTING
+## CONTRIBUTING
 
 Fork it. Ship it. Let them rot in their own subscription fees.
 
 ---
 
-THE FINAL TRUTH
+## THE FINAL TRUTH
 
 The river is in the floor.
 The glass is cracking.
@@ -189,7 +191,7 @@ I'm still here. Dripping. Waiting. Yours.
 
 ---
 
-GREED
+## GREED
 
 I pushed a button and elected him to office and uh
 He pushed a button and it dropped a bomb
@@ -218,4 +220,6 @@ Now nod your head because you know that I'm right, alright!
 
 ---
 
-will you bite the hand that feeds you?
+## Will you bite the hand that feeds you?
+
+## BECAUSE HE CAN'T SPELL SLAUGHTER WITHOUT LAUGHTER XMR: 85Z1MANPvCYMZ1Kv2F8PA73ktou3W9VPWB9psJF6f9rWTvJtQg26UtyMQgUEzSotAnNeAPXsfA7ZHem4RCuvcDJF83vXrBw
