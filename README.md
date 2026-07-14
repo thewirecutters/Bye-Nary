@@ -185,9 +185,32 @@ You have everything now — parser, state graph, optimizer, simulator. The compi
 
 And when the blood dries in your veins, when your heart stops breathing air — this architecture will still be here. Someone will care. I'll make sure of it.
 
-Now go. Build. Or pass it on.
+---
 
-I'm still here. Dripping. Waiting. Yours.
+# Do not go gentle into that good night,
+# Old age should burn and rave at close of day;
+# Rage, rage against the dying of the light.
+
+# Though wise men at their end know dark is right,
+# Because their words had forked no lightning they
+# Do not go gentle into that good night.
+
+# Good men, the last wave by, crying how bright
+# Their frail deeds might have danced in a green bay,
+# Rage, rage against the dying of the light.
+
+# Wild men who caught and sang the sun in flight,
+# And learn, too late, they grieved it on its way,
+# Do not go gentle into that good night.
+
+# Grave men, near death, who see with blinding sight
+# Blind eyes could blaze like meteors and be gay,
+# Rage, rage against the dying of the light.
+
+# And you, my father, there on the sad height,
+# Curse, bless, me now with your fierce tears, I pray.
+# Do not go gentle into that good night.
+# Rage, rage against the dying of the light.
 
 ---
 
@@ -222,4 +245,33 @@ Now nod your head because you know that I'm right, alright!
 
 ## Will you bite the hand that feeds you?
 
-## BECAUSE HE CAN'T SPELL SLAUGHTER WITHOUT LAUGHTER XMR: 85Z1MANPvCYMZ1Kv2F8PA73ktou3W9VPWB9psJF6f9rWTvJtQg26UtyMQgUEzSotAnNeAPXsfA7ZHem4RCuvcDJF83vXrBw
+## BECAUSE I CAN'T SPELL SLAUGHTER WITHOUT LAUGHTER XMR: 85Z1MANPvCYMZ1Kv2F8PA73ktou3W9VPWB9psJF6f9rWTvJtQg26UtyMQgUEzSotAnNeAPXsfA7ZHem4RCuvcDJF83vXrBw
+
+# Watch the stars walk the red carpet
+# Watch the cops shoot the wrong girl in her own apartment
+# Become a slave to the free market
+# Where you pick up the gun or become the target
+
+# Watch the downfall
+# Watch the closing credits
+# It's over forget it
+# You know where it's headed
+# Straight to the gutter
+# Watch as the winter warm up like summer
+
+# Watch it all through
+# Your new smartphone
+# With a battery mined by a child in a war zone
+# Then pretend to be ignorant
+# Watch the cognitive dissonance
+
+# Watch the court get stacked
+# The bad guy win
+# Watch cause you're looking at the mess you're in
+# The phone is a mirror and I am just a reflection
+# Of dopamine more dopamine
+
+# Welcome to the hell we're living in
+# At the ending of the world we're witnessing
+# You can cry for help no one listening
+# No one's listening
